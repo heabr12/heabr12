@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-## I am currently studying computer science at Susquehanna University
-
-## I am looking to collaborate on projects relating to language learning and game emulation
-
 <!--
 **heabr12/heabr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
